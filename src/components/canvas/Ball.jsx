@@ -1,7 +1,7 @@
 import React, { Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { Decal, Float, OrbitControls, Preload,useTexture } from '@react-three/drei';
-import CanvasLoader from "../Loader"
+import Loader from '../Loader';
 import { AmbientLight } from 'three';
 
 export const Ball = (props) => {
@@ -36,7 +36,7 @@ const BallCanvas= ({icon})=>{
       frameloop='demand'
       gl={{preserveDrawingBuffer:true}}
     >
-      <Suspense fallback={<CanvasLoader/>}>
+      <Suspense fallback={<Loader/>}>
         <OrbitControls enableZoom={false}/>
         <Ball imgUrl={icon}/>
       </Suspense>
