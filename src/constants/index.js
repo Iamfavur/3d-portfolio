@@ -59,7 +59,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Mobile App Developer",
       icon: mobile,
     },
     {
@@ -67,7 +67,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Fullstack Developer",
       icon: creator,
     },
   ];
