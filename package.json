@@ -1,5 +1,5 @@
 {
-  "homepage": ".",
+  "homepage": "http://Iamfavur.github.io/3d-portfolio",
   "name": "3d-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -38,6 +38,6 @@
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5",
-    "vite": "^4.4.5"
+    "vite": "^5.4.4"
   }
 }

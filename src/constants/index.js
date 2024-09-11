@@ -129,13 +129,13 @@ import {
   
   const experiences = [
     {
-      title: "React.js/React-Native Developer",
+      title: "Fullstack Developer",
       company_name: "Fiverr",
       icon: experience1,
       iconBg: "#383E56",
       date: "November 2022 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Developing and maintaining fullstack applications using MERN stack and other related technologies.",
         "Developed and maintained Mobile applications using React-Native and other related libraries",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
@@ -143,14 +143,14 @@ import {
       ],
     },
     {
-      title: "React.js/React-Native Developer",
+      title: "Fullstack web and mobile application Developer",
       company_name: "Upwork",
       icon: experience2,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related frameworks.",
-        "Developed and maintained Mobile applications using React-Native and other related libraries",
+        "Developing and maintaining applications using react, react-native, Nodejs, expressjs, mongoDB and other related technologies.",
+        "Developed and maintained Mobile applications using MERN and other related rechnologies",
         "Collaborated with designers to ensure seamless integration.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
       ],
